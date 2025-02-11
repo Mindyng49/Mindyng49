@@ -12,6 +12,10 @@ I am still learning coding.
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm UTM student
 
+🚀**MY PROJECT**                                              
+   https://github.com/Mindyng49/Project-Assignment
+
+
 ### Skills
 
 
