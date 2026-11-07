@@ -16,9 +16,9 @@ I am still learning coding.
 * ⚡  I'm UTM student
 
 🚀**MY PROJECTS**                                              
-   https://github.com/Mindyng49/Project-Assignment
-   https://github.com/Mindyng49/BIOINFORMATIC-Project-Lab-Assignment
-   
+[Project Assignment](https://github.com/Mindyng49/Project-Assignment)
+
+[Bioinformatics Project & Lab Assignment](https://github.com/Mindyng49/BIOINFORMATIC-Project-Lab-Assignment)
 
 
 ### Skills
