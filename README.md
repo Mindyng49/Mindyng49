@@ -17,7 +17,8 @@ I am still learning coding.
 
 🚀**MY PROJECTS**                                              
    https://github.com/Mindyng49/Project-Assignment
-   <a href="https://github.com/Mindyng49/BIOINFORMATIC-Project-Lab-Assignment"/></a>
+   https://github.com/Mindyng49/BIOINFORMATIC-Project-Lab-Assignment
+   
 
 
 ### Skills
